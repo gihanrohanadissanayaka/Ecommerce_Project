@@ -1,6 +1,9 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Project deploy with netlify.app service.(https://ecommerce-muradevelopers.netlify.app)
 
 ## Available Scripts
 
