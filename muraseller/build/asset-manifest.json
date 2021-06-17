@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5147e42a.chunk.css",
+    "main.js": "/static/js/main.69b19bce.chunk.js",
+    "main.js.map": "/static/js/main.69b19bce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a2a1e5c8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a2a1e5c8.js.map",
+    "static/js/2.f3a658e2.chunk.js": "/static/js/2.f3a658e2.chunk.js",
+    "static/js/2.f3a658e2.chunk.js.map": "/static/js/2.f3a658e2.chunk.js.map",
+    "static/js/3.e82a85d4.chunk.js": "/static/js/3.e82a85d4.chunk.js",
+    "static/js/3.e82a85d4.chunk.js.map": "/static/js/3.e82a85d4.chunk.js.map",
+    "static/js/4.6c6d6896.chunk.js": "/static/js/4.6c6d6896.chunk.js",
+    "static/js/4.6c6d6896.chunk.js.map": "/static/js/4.6c6d6896.chunk.js.map",
+    "static/js/5.5d8990f3.chunk.js": "/static/js/5.5d8990f3.chunk.js",
+    "static/js/5.5d8990f3.chunk.js.map": "/static/js/5.5d8990f3.chunk.js.map",
+    "static/js/6.4a53e468.chunk.js": "/static/js/6.4a53e468.chunk.js",
+    "static/js/6.4a53e468.chunk.js.map": "/static/js/6.4a53e468.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5147e42a.chunk.css.map": "/static/css/main.5147e42a.chunk.css.map",
+    "static/js/2.f3a658e2.chunk.js.LICENSE.txt": "/static/js/2.f3a658e2.chunk.js.LICENSE.txt",
+    "static/js/3.e82a85d4.chunk.js.LICENSE.txt": "/static/js/3.e82a85d4.chunk.js.LICENSE.txt",
+    "static/js/4.6c6d6896.chunk.js.LICENSE.txt": "/static/js/4.6c6d6896.chunk.js.LICENSE.txt",
+    "static/js/5.5d8990f3.chunk.js.LICENSE.txt": "/static/js/5.5d8990f3.chunk.js.LICENSE.txt",
+    "static/media/brand01.ee1cf253.jpeg": "/static/media/brand01.ee1cf253.jpeg",
+    "static/media/brand03.5da0f260.jpg": "/static/media/brand03.5da0f260.jpg",
+    "static/media/brand04.e697ddbb.jpg": "/static/media/brand04.e697ddbb.jpg",
+    "static/media/deliveproce.c86adec9.jpg": "/static/media/deliveproce.c86adec9.jpg",
+    "static/media/deliverylogo.d58c85fb.jpg": "/static/media/deliverylogo.d58c85fb.jpg",
+    "static/media/download.95fed8ea.jpg": "/static/media/download.95fed8ea.jpg",
+    "static/media/loading.850698c3.gif": "/static/media/loading.850698c3.gif",
+    "static/media/market.f9a65dff.jpg": "/static/media/market.f9a65dff.jpg",
+    "static/media/noItem.de4458e7.png": "/static/media/noItem.de4458e7.png",
+    "static/media/profile.3d5cf30a.jfif": "/static/media/profile.3d5cf30a.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2a1e5c8.js",
+    "static/js/3.e82a85d4.chunk.js",
+    "static/css/main.5147e42a.chunk.css",
+    "static/js/main.69b19bce.chunk.js"
+  ]
+}

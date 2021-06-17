@@ -1,0 +1,60 @@
+.main-canvus {
+  background-color: rgb(253, 253, 253);
+  border-left: 3px solid rgb(0, 0, 0);
+  margin-left: 50px;
+  height: auto;
+}
+.form-title {
+  font-size: 25px;
+  text-align: center;
+  margin: 10px;
+  text-decoration: underline;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  padding: 20px;
+  font-size: 15px;
+}
+.form-para {
+  font-size: 15px;
+  margin-top: 20px;
+}
+.form-details {
+  color: blue;
+}
+.grid-container01 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-item-box {
+  padding: 20px;
+  font-size: 15px;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+}
+.button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  border-radius: 20px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+.button2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+.btn-print {
+  color: rgb(0, 0, 0);
+}
